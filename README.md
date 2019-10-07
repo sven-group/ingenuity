@@ -14,6 +14,7 @@ composer require sven-group/ingenuity
 
 ```bash
 php artisan make:ingenuity DatabaseTableName
+php artisan make:ingenuity DatabaseTableName --uploads
 ```
 
 ### Changelog
